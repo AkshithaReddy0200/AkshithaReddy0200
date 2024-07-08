@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshithaReddy0200
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning java.
 - 📫 How to reach me akshithareddy0200@gmail.com
 
 <!---
